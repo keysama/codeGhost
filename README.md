@@ -1,0 +1,2 @@
+# codeGhost
+start 0
